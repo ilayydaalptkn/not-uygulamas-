@@ -12,3 +12,4 @@
 
 
 Geliştirici: İLAYDA ALPTEKİN
+Geliştirici: İlayda (main versiyonu)
