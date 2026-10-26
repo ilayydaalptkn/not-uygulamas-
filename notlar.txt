@@ -3,3 +3,8 @@
 3. mkdir - Yeni klasor olusturur
 4. pwd - Mevcut dizin yolunu gosterir
 5. rm - Dosya veya klasor siler
+6. git init - Yeni repo baslatir
+7. git status - Repo durumunu gosterir
+8. git add - Dosyalari staging area'ya alir
+9. git commit - Degisiklikleri kaydeder
+10. git log - Gecmisi gosterir
